@@ -21,7 +21,7 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 ## Instalação:
 
 * Execute o banco de dados MySQL (localhost) como root sem nenhuma senha definida (senha em branco)
-* Crie um novo banco de dados de nome dbinfox
-* Faça a importação do DUMP deste projeto (pasta banco) selecionando o banco de dados dbinfox
-* Em "Releases" Faça o download do instalador infoX
+* Crie um novo banco de dados de nome dbagenda
+* Faça a importação do DUMP deste projeto (pasta banco) selecionando o banco de dados dbagenda
+* Em "Releases" Faça o download do instalador agenda
 * Execute a instalação. Na tela de login faça a autenticação com o usuário "admin" usando a senha "admin"
