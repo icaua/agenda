@@ -7,7 +7,7 @@ Simples agenda de contatos para windows linux e mac
 ## autor 
 Isaac Caua Mourao Da Silva
 
-## Instalação da versão de demontração (projeto modelo)
+## Instalação da agenda
 
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local
 
