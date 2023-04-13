@@ -16,12 +16,11 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 É necessário ter instalado no computador:
 
 * Java JDK 17 ou superior
-* Banco de dados MySQL versão 8
+* XAMPP
 
 ## Instalação:
 
-* Execute o banco de dados MySQL (localhost) como root sem nenhuma senha definida (senha em branco)
+* Execute o XAAMP e acesse a administração do mySQL(phpmyadmin)
 * Crie um novo banco de dados de nome dbagenda
-* Faça a importação do DUMP deste projeto (pasta banco) selecionando o banco de dados dbagenda
-* Em "Releases" Faça o download do instalador agenda
-* Execute a instalação. Na tela de login faça a autenticação com o usuário "admin" usando a senha "admin"
+* Faça a importação do arquivo constatos.sql para o XAAMP
+* Em "Releases" Faça o download da agenda(jar) e execute o arquivo
